@@ -1,0 +1,12 @@
+package visao;
+
+import modelo.Tabuleiro;
+
+public class TabulewiroConsole {
+
+	private Tabuleiro tabuleiro;
+	
+	public TabuleiroConsole(Tabuleiro tabuleiro) {
+		this.tabuleiro = tabuleiro;
+	}
+}
